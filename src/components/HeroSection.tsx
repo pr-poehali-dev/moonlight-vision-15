@@ -2,10 +2,10 @@ import { useEffect, useState } from 'react';
 import { cn } from '@/lib/utils';
 
 const images = [
-  'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-2.jpg',
-  'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-1.jpg',
-  'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-4.jpg',
-  'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-5.jpg',
+  'https://cdn.poehali.dev/projects/5fdf3e92-75bf-4a7d-9834-a53cd2cd6d64/files/62328ac1-4f82-446e-bd9a-d523667ffecf.jpg',
+  'https://cdn.poehali.dev/projects/5fdf3e92-75bf-4a7d-9834-a53cd2cd6d64/files/154d165f-0a63-4485-89b0-805515fbaca0.jpg',
+  'https://cdn.poehali.dev/projects/5fdf3e92-75bf-4a7d-9834-a53cd2cd6d64/files/38b65332-636a-406e-9983-fe2597288d49.jpg',
+  'https://cdn.poehali.dev/projects/5fdf3e92-75bf-4a7d-9834-a53cd2cd6d64/files/a8cd5e4a-4f71-4b69-b8ca-79ec7547c4be.jpg',
 ];
 
 export default function HeroSection() {
@@ -70,10 +70,10 @@ export default function HeroSection() {
             >
               <div className="space-y-4">
                 <p className="text-3xl font-light text-white md:text-4xl lg:text-5xl">
-                  Алексей Иванов
+                  Моё портфолио
                 </p>
                 <p className="text-xl font-light text-white/80 md:text-2xl">
-                  Креативный директор | Дизайнер
+                  Волейбол · Баскетбол · Карате · Капоэйра
                 </p>
                 <div className="flex gap-6 pt-4">
                   <a
