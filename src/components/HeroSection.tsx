@@ -55,8 +55,8 @@ export default function HeroSection() {
             >
               <div className="relative h-48 w-48 overflow-hidden rounded-full border-4 border-white shadow-2xl md:h-64 md:w-64">
                 <img
-                  src="https://cdn.poehali.dev/templates/creative-portfolio-ru/portrait.jpg"
-                  alt="Креативный специалист"
+                  src="https://cdn.poehali.dev/projects/5fdf3e92-75bf-4a7d-9834-a53cd2cd6d64/bucket/ad9beb32-f116-43be-99fb-855e13820881.png"
+                  alt="Шабловская Надежда Валентиновна"
                   className="h-full w-full object-cover"
                 />
               </div>
